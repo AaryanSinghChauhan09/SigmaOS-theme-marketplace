@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-theme-marketplace"
+description = "SigmaOS subsystem component for theme-marketplace"
+version = "0.1.0"
+tier = 5
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
