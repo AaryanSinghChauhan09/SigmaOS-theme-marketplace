@@ -1,8 +1,6 @@
 // SigmaOS-theme-marketplace
 // Theme discovery and download marketplace library.
 
-pub mod catalog;
-pub mod download;
 
 /// Initialise the theme marketplace.
 ///
@@ -11,3 +9,6 @@ pub mod download;
 pub fn init() {
     // TODO: load catalog index and configure download endpoints
 }
+
+pub mod icon;
+pub mod palette;
