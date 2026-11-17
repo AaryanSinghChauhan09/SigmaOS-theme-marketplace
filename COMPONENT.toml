@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-marketplace"
-description = "SigmaOS subsystem component for theme-marketplace"
+description = "Community theme marketplace"
 version = "0.1.0"
 tier = 5
 
