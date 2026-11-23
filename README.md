@@ -1,4 +1,6 @@
-# Omarchy Theme Marketplace
+# SigmaOS Theme Marketplace
+
+> Forked from [omacom/omarchy-theme-marketplace](https://github.com/omacom/omarchy-theme-marketplace) (MIT). See `SIGMAOS_FORK.md`.
 
 The website for [themes.omarchy.org](https://themes.omarchy.org): browse, preview and install community themes for [Omarchy](https://omarchy.org).
 
