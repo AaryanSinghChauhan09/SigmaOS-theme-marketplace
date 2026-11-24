@@ -27,3 +27,11 @@ Environment:
 Copy `.env.example` to `.env` for local development.
 
 To refresh the local catalog snapshot: `curl -s "$CDN_BASE_URL/v1/catalog.json" -o data/catalog.json`.
+## Documentation
+
+Detailed Wiki documentation is available in the standalone Wiki repository:
+
+- [SigmaOS-theme-marketplace-Wiki](https://github.com/AaryanSinghChauhan09/SigmaOS-theme-marketplace-Wiki) - Full Wiki documentation
+
+For the complete SigmaOS Wiki catalog, see:
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging)
