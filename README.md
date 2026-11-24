@@ -1,10 +1,10 @@
 # SigmaOS Theme Marketplace
 
-> Forked from [omacom/omarchy-theme-marketplace](https://github.com/omacom/omarchy-theme-marketplace) (MIT). See `SIGMAOS_FORK.md`.
+> Forked from [AaryanSinghChauhan09/SigmaOS-theme-marketplace](https://github.com/AaryanSinghChauhan09/SigmaOS-theme-marketplace) (MIT). See `SIGMAOS_FORK.md`.
 
-The website for [themes.omarchy.org](https://themes.omarchy.org): browse, preview and install community themes for [Omarchy](https://omarchy.org).
+The website for [themes.omarchy.org](https://themes.omarchy.org): browse, preview and install community themes for [SigmaOS](https://omarchy.org).
 
-Themes are registered, validated and published by [omacom/omarchy-theme-registry](https://github.com/omacom/omarchy-theme-registry); this app fetches `catalog.json` from the CDN, caches it for five minutes, and keeps serving the last catalog it fetched if the CDN becomes unreachable. The committed snapshot in `data/catalog.json` is used only when the app has not reached the CDN since it started.
+Themes are registered, validated and published by [AaryanSinghChauhan09/SigmaOS-theme-registry](https://github.com/AaryanSinghChauhan09/SigmaOS-theme-registry); this app fetches `catalog.json` from the CDN, caches it for five minutes, and keeps serving the last catalog it fetched if the CDN becomes unreachable. The committed snapshot in `data/catalog.json` is used only when the app has not reached the CDN since it started.
 
 ## Running locally
 
