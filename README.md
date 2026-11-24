@@ -2,7 +2,7 @@
 
 > Forked from [AaryanSinghChauhan09/SigmaOS-theme-marketplace](https://github.com/AaryanSinghChauhan09/SigmaOS-theme-marketplace) (MIT). See `SIGMAOS_FORK.md`.
 
-The website for [themes.omarchy.org](https://themes.omarchy.org): browse, preview and install community themes for [SigmaOS](https://omarchy.org).
+The website for [themes.sigmaos.org](https://themes.sigmaos.org): browse, preview and install community themes for [SigmaOS](https://sigmaos.org).
 
 Themes are registered, validated and published by [AaryanSinghChauhan09/SigmaOS-theme-registry](https://github.com/AaryanSinghChauhan09/SigmaOS-theme-registry); this app fetches `catalog.json` from the CDN, caches it for five minutes, and keeps serving the last catalog it fetched if the CDN becomes unreachable. The committed snapshot in `data/catalog.json` is used only when the app has not reached the CDN since it started.
 
@@ -21,7 +21,7 @@ Environment:
 
 | Variable       | Purpose                                                                                       | Default                          |
 | -------------- | --------------------------------------------------------------------------------------------- | -------------------------------- |
-| `CDN_BASE_URL` | Base URL of the registry CDN; `/v1/catalog.json` is appended                                  | `https://cdn.themes.omarchy.org` |
+| `CDN_BASE_URL` | Base URL of the registry CDN; `/v1/catalog.json` is appended                                  | `https://cdn.themes.sigmaos.org` |
 | `CATALOG_URL`  | Full catalog URL, overrides `CDN_BASE_URL` (test env sets it to nil to use the snapshot only) | derived                          |
 
 Copy `.env.example` to `.env` for local development.
